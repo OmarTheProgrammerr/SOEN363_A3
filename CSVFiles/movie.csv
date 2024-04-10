@@ -1,0 +1,51 @@
+imdb_id,title,description,rating,content_rating_id,reviews_count,runtime,release_year
+111161,The Shawshank Redemption,"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",9.30,3,2400000,142,1994
+68646,The Godfather,The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.,9.20,3,1660000,175,1972
+71562,The Godfather: Part II,"The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",9.00,4,1140000,202,1974
+468569,The Dark Knight,"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",9.00,5,2350000,152,2008
+50083,12 Angry Men,A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.,9.00,2,700000,96,1957
+108052,Schindler's List,"In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",8.90,3,1230000,195,1993
+167260,The Lord of the Rings: The Return of the King,Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.,8.90,1,1660000,201,2003
+110912,Pulp Fiction,"The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",8.90,5,1860000,154,1994
+60196,"The Good, the Bad and the Ugly",A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.,8.80,3,700000,161,1966
+120737,The Lord of the Rings: The Fellowship of the Ring,A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.,8.80,4,1690000,178,2001
+137523,Fight Club,An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.,8.80,1,1880000,139,1999
+109830,Forrest Gump,"The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",8.80,2,1840000,142,1994
+80684,Star Wars: Episode V - The Empire Strikes Back,"After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.",8.70,2,1170000,124,1980
+1375666,Inception,A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.,8.70,3,2070000,148,2010
+167261,The Lord of the Rings: The Two Towers,"While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",8.70,2,1500000,179,2002
+133093,The Matrix,"When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",8.60,1,1710000,136,1999
+99685,Goodfellas,"The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",8.60,3,1040000,146,1990
+47478,Seven Samurai,A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.,8.60,2,320000,207,1954
+317248,City of God,"In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",8.60,3,700000,130,2002
+114369,Se7en,"Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",8.60,4,1500000,127,1995
+118799,Life Is Beautiful,"When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",8.60,5,630000,116,1997
+245429,Spirited Away,"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",8.60,1,660000,125,2001
+120815,Saving Private Ryan,"Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",8.50,2,1250000,169,1998
+120689,The Green Mile,"The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",8.50,5,1180000,189,1999
+120586,American History X,A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.,8.50,2,1030000,119,1998
+816692,Interstellar,A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.,8.50,3,1560000,169,2014
+38650,It's a Wonderful Life,An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.,8.50,1,410000,130,1946
+110413,LÃƒÂ©on: The Professional,"Mathilda, a 12-year-old girl, is reluctantly taken in by LÃƒÂ©on, a professional assassin, after her family is murdered. LÃƒÂ©on and Mathilda form an unusual relationship, as she becomes his protÃƒÂ©gÃƒÂ©e and learns the assassin's trade.",8.50,2,1030000,110,1994
+56058,Harakiri,"When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",8.50,3,46000,133,1962
+114814,The Usual Suspects,"A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",8.50,1,1000000,106,1995
+110357,The Lion King,"Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",8.50,2,960000,88,1994
+88763,Back to the Future,"Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",8.50,3,1100000,116,1985
+253474,The Pianist,A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.,8.50,2,740000,150,2002
+102926,The Silence of the Lambs,"A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",8.50,4,1300000,118,1991
+119698,Princess Mononoke,"On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",8.40,2,350000,134,1997
+76759,Star Wars: Episode IV - A New Hope,"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",8.40,2,1250000,121,1977
+120735,The Truman Show,An insurance salesman discovers his whole life is actually a reality TV show.,8.40,2,970000,103,1998
+112573,Braveheart,Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.,8.40,4,970000,178,1995
+82971,Raiders of the Lost Ark,"In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",8.40,5,900000,115,1981
+54215,Psycho,"A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",8.40,4,610000,109,1960
+34583,Casablanca,A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.,8.40,1,530000,102,1942
+114709,Toy Story,A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.,8.40,1,900000,81,1995
+119217,Good Will Hunting,"Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",8.40,3,860000,126,1997
+32553,The Great Dictator,Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.,8.40,2,200000,125,1940
+57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.,8.40,5,460000,95,1964
+407887,The Departed,An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.,8.40,4,1200000,151,2006
+95765,Cinema Paradiso,A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.,8.40,1,240000,155,1988
+78788,Apocalypse Now,A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.,8.40,2,610000,147,1979
+78748,Alien,"After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",8.40,4,800000,117,1979
+364569,Oldboy,"After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",8.40,2,530000,120,2003
