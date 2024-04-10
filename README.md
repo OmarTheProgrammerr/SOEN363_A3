@@ -2,6 +2,7 @@
 // Student ID: 40162541
 // Github repo link of the solution: https://github.com/OmarTheProgrammerr/SOEN363_A3.git
 
+// Note!! I cannot submit a folder in moodle, so you can find the folder with the CSV file in the github repo.
 // Regarding the first part ( the CSV files ), you can find them under CSVFiles folder.
 
 // Script to create database in Neo4J -> Question 2 :
