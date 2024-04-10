@@ -1,5 +1,6 @@
 // Name: Omar Mohammad
 // Student ID: 40162541
+// Github repo link of the solution: https://github.com/OmarTheProgrammerr/SOEN363_A3.git
 
 // Regarding the first part ( the CSV files ), you can find them under CSVFiles folder.
 
